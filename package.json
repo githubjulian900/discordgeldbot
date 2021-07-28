@@ -2,7 +2,7 @@
   "name": "EconomyBot",
   "version": "1.0.0",
   "description": "Economy bot created with quick.eco package in discord.js",
-  "main": "index.js",
+  "main": "bot.js",
   "scripts": {
     "start": "node index.js"
   },
